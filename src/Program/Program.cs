@@ -36,14 +36,14 @@
         static void RainResult(List<double> allAmount)
         {
             double totalAmountRain = 0;
-            Console.WriteLine("* dag: \t\tNedbør:*");
+            Console.WriteLine("* dag: \tNedbør:*");
 
             for (int i = 0; i < allAmount.Count; i++)
             {
-                Console.WriteLine($"*\t{i + 1}: \t\t{allAmount[i]}*");
+                Console.WriteLine($"*\t{i + 1}: \t{allAmount[i]}*");
                 totalAmountRain += allAmount[i];
             }
-            Console.WriteLine($"* Gennemtsnit: {totalAmountRain / allAmount.Count:N2} \tMinimum: {allAmount.Min<double>()} \tMaximum: {allAmount.Max<double>()} \t*");
+            Console.WriteLine($"* Gennemtsnit: {totalAmountRain / allAmount.Count:N2} Minimum: {allAmount.Min<double>()} Maximum: {allAmount.Max<double>()} *");
         }
     }
 }
