@@ -1,0 +1,15 @@
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/bin/Debug/net6.0/Program
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/bin/Debug/net6.0/Program.deps.json
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/bin/Debug/net6.0/Program.runtimeconfig.json
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/bin/Debug/net6.0/Program.dll
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/bin/Debug/net6.0/Program.pdb
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/obj/Debug/net6.0/Program.csproj.AssemblyReference.cache
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/obj/Debug/net6.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/obj/Debug/net6.0/Program.AssemblyInfoInputs.cache
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/obj/Debug/net6.0/Program.AssemblyInfo.cs
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/obj/Debug/net6.0/Program.csproj.CoreCompileInputs.cache
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/obj/Debug/net6.0/Program.dll
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/obj/Debug/net6.0/refint/Program.dll
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/obj/Debug/net6.0/Program.pdb
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/obj/Debug/net6.0/Program.genruntimeconfig.cache
+/Users/dkAdIsNu/dev/cs/Regnvejrstatistik/src/Program/obj/Debug/net6.0/ref/Program.dll
